@@ -19,7 +19,6 @@ setup(
     author='Matthew Flanagan',
     author_email='mattimustang@gmail.com',
     url='http://code.google.com/p/wadofstuff/',
-    download_url='http://wadofstuff.googlecode.com/files/wadofstuff-django-serializers-1.1.0.tar.gz',
     packages=(
         'wadofstuff',
         'wadofstuff.django',
